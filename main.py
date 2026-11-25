@@ -5,7 +5,7 @@ Writes one satirical sentence (at most 320 characters) to $MAKEFUN_OUTPUT_DIR/en
 
 import os
 
-LINE = "They voted to regulate artificial intelligence before lunch, then spent the afternoon asking an intern to turn their amendment into a PDF."
+LINE = "They passed a law regulating artificial intelligence before lunch, then spent the afternoon asking an intern to convert it to PDF, because apparently only the robots are expected to be competent."
 MAX_CHARS = 320
 
 
